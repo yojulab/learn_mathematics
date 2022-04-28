@@ -21,6 +21,6 @@
 |행렬|공분산행렬|-|-|-|-|-|
 |행렬|고유값,고유벡터|-|-|-|[?geogebra](https://www.geogebra.org/classic/v2ysejp4)|[youtube](https://youtu.be/YEdscCNsinU), [*other pdf](https://github.com/insightcampus/sesac-nlp/blob/main/13%20%EA%B0%95%EC%9D%98%20-%20%EC%84%A0%ED%98%95%EB%8C%80%EC%88%98%20%EA%B8%B0%EC%B4%88.pdf)|
 |행렬분해|고유값분해, SVD|-|[other SVD](https://github.com/insightcampus/sesac-nlp/blob/main/ipynb/14%20%E1%84%89%E1%85%B5%E1%86%AF%E1%84%89%E1%85%B3%E1%86%B8%20-%20%E1%84%89%E1%85%A5%E1%86%AB%E1%84%92%E1%85%A7%E1%86%BC%E1%84%83%E1%85%A2%E1%84%89%E1%85%AE%20%E1%84%80%E1%85%B5%E1%84%8E%E1%85%A9.ipynb)|-|-|[*other pdf](https://github.com/insightcampus/sesac-nlp/blob/main/13%20%EA%B0%95%EC%9D%98%20-%20%EC%84%A0%ED%98%95%EB%8C%80%EC%88%98%20%EA%B8%B0%EC%B4%88.pdf)|
-|PCA|-|-|-|-|-|-|
+|성분분석|PCA|+coding, linalg.eig, decomposition(sklearn)|[other ipynb](https://github.com/insightcampus/sesac-nlp/blob/main/ipynb/16%20%E1%84%89%E1%85%B5%E1%86%AF%E1%84%89%E1%85%B3%E1%86%B8%20-%20%E1%84%8E%E1%85%A1%E1%84%8B%E1%85%AF%E1%86%AB%E1%84%8E%E1%85%AE%E1%86%A8%E1%84%89%E1%85%A9.ipynb)|-|-|[*other pdf](https://github.com/insightcampus/sesac-nlp/blob/main/15%20%EA%B0%95%EC%9D%98%20-%20%EC%B0%A8%EC%9B%90%EC%B6%95%EC%86%8C.pdf)|
 |-|-|-|-|-|-|-|
 
