@@ -16,6 +16,7 @@
 #### 선형대수학
 | 분류 | 주제 | 설명 |작성 | 데이터 | 이해 | 참조 |
 | :---: | :---: | --- | :---: | :---: | :---: | :---: |
+| 데이터형 | 벡터,행렬,텐서 등 |  |[ipynb](./codes/LinearAlgebra_데이터형태.ipynb)| MNIST digits | |  |
 |백터|백터연산|-|-|-|[geogebra](https://www.geogebra.org/classic/bweyhzbf)|[youtube](https://youtu.be/R-XHrNq9Ff4), [*other pdf](https://github.com/insightcampus/sesac-nlp/blob/main/13%20%EA%B0%95%EC%9D%98%20-%20%EC%84%A0%ED%98%95%EB%8C%80%EC%88%98%20%EA%B8%B0%EC%B4%88.pdf)|
 |행렬| 행렬 연산 |-|-|-|-| [*other pdf](https://github.com/insightcampus/sesac-nlp/blob/main/13%20%EA%B0%95%EC%9D%98%20-%20%EC%84%A0%ED%98%95%EB%8C%80%EC%88%98%20%EA%B8%B0%EC%B4%88.pdf) |
 |행렬|공분산행렬|-|-|-|-|-|
