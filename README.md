@@ -18,7 +18,7 @@
 | :---: | :---: | --- | :---: | :---: | :---: | :---: |
 | 데이터형 | 벡터,행렬,텐서 등 |  |[ipynb](./codes/LinearAlgebra_데이터형태.ipynb)| MNIST digits | |  |
 |백터|백터연산|-|[ipynb](./codes/LinearAlgebra_연산.ipynb)|-|[geogebra](https://www.geogebra.org/classic/bweyhzbf)|[youtube](https://youtu.be/R-XHrNq9Ff4), [*other pdf](https://github.com/insightcampus/sesac-nlp/blob/main/13%20%EA%B0%95%EC%9D%98%20-%20%EC%84%A0%ED%98%95%EB%8C%80%EC%88%98%20%EA%B8%B0%EC%B4%88.pdf)|
-|행렬| 행렬 연산 |-|[ipynb](./codes/LinearAlgebra_연산.ipynb)|-|-| [*other pdf](https://github.com/insightcampus/sesac-nlp/blob/main/13%20%EA%B0%95%EC%9D%98%20-%20%EC%84%A0%ED%98%95%EB%8C%80%EC%88%98%20%EA%B8%B0%EC%B4%88.pdf) |
+|행렬| 행렬 연산 |-|[ipynb](./codes/LinearAlgebra_데이터형태간연산.ipynb)|-|-| [*other pdf](https://github.com/insightcampus/sesac-nlp/blob/main/13%20%EA%B0%95%EC%9D%98%20-%20%EC%84%A0%ED%98%95%EB%8C%80%EC%88%98%20%EA%B8%B0%EC%B4%88.pdf) |
 |행렬|공분산행렬|-|-|-|-|-|
 |행렬|고유값,고유벡터|-|-|-|[?geogebra](https://www.geogebra.org/classic/v2ysejp4)|[youtube](https://youtu.be/YEdscCNsinU), [*other pdf](https://github.com/insightcampus/sesac-nlp/blob/main/13%20%EA%B0%95%EC%9D%98%20-%20%EC%84%A0%ED%98%95%EB%8C%80%EC%88%98%20%EA%B8%B0%EC%B4%88.pdf)|
 |행렬분해|고유값분해, SVD|-|[other SVD](https://github.com/insightcampus/sesac-nlp/blob/main/ipynb/14%20%E1%84%89%E1%85%B5%E1%86%AF%E1%84%89%E1%85%B3%E1%86%B8%20-%20%E1%84%89%E1%85%A5%E1%86%AB%E1%84%92%E1%85%A7%E1%86%BC%E1%84%83%E1%85%A2%E1%84%89%E1%85%AE%20%E1%84%80%E1%85%B5%E1%84%8E%E1%85%A9.ipynb)|-|-|[*other pdf](https://github.com/insightcampus/sesac-nlp/blob/main/13%20%EA%B0%95%EC%9D%98%20-%20%EC%84%A0%ED%98%95%EB%8C%80%EC%88%98%20%EA%B8%B0%EC%B4%88.pdf)|
