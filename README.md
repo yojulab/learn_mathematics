@@ -21,7 +21,6 @@
 |행렬| 행렬 연산 |-|[ipynb](./codes/LinearAlgebra_데이터형태간연산.ipynb)|-|-| [*other pdf](https://github.com/insightcampus/sesac-nlp/blob/main/13%20%EA%B0%95%EC%9D%98%20-%20%EC%84%A0%ED%98%95%EB%8C%80%EC%88%98%20%EA%B8%B0%EC%B4%88.pdf) |
 |벡터| 벡터 내적 | 내적 구하기, 가중합, 가중평균 |[ipynb](codes/LinearAlgebra_내적.ipynb) |  |  |  |
 | 유사도 | 유사도 | cosine similarity |[ipynb](./codes/LinearAlgebra_유사도.ipynb) | sklearn.load_digits | 이해 | 참조 |
-
 |선형회귀|선형회귀|아파트 가격 회귀 모델|[ipynb](./codes/LinearAlgebra_선형회귀모델.ipynb)|-|-|-|
 |행렬|공분산행렬|-|-|-|-|-|
 |행렬|고유값,고유벡터|-|-|-|[?geogebra](https://www.geogebra.org/classic/v2ysejp4)|[youtube](https://youtu.be/YEdscCNsinU), [*other pdf](https://github.com/insightcampus/sesac-nlp/blob/main/13%20%EA%B0%95%EC%9D%98%20-%20%EC%84%A0%ED%98%95%EB%8C%80%EC%88%98%20%EA%B8%B0%EC%B4%88.pdf)|
