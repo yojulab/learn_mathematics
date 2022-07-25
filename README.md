@@ -14,8 +14,11 @@
 |통계|다변량정규분포|||-|-|[link](https://namyoungkim.github.io/probability/statistics/2017/09/11/probability_2/),[link](https://dhpark1212.tistory.com/entry/%EB%8B%A4%EB%B3%80%EB%9F%89-%EA%B0%80%EC%9A%B0%EC%8B%9C%EC%95%88-%EB%B6%84%ED%8F%ACMultivariate-Gaussian-Distribution)|
 
 #### 선형대수학
+refer : [선형대수-youtube](https://youtube.com/playlist?list=PL5yujGYFVt0BCu7DXfEgD7M51Tj6S7s4A)
+
 | 분류 | 주제 | 설명 |작성 | 데이터 | 이해 | 참조 |
 | :---: | :---: | --- | :---: | :---: | :---: | :---: |
+| 가우시안 소거 |  | --- |  |  |  | [youtube](https://youtu.be/Ov7fetr-qg8), [doc](https://youtu.be/Ov7fetr-qg8) |
 | 데이터형 | 데이터 형태 | 스칼라, 벡터,행렬,텐서 |[ipynb](./codes/LinearAlgebra_데이터형태.ipynb)| MNIST digits | |  |
 |백터|백터연산|전치,영벡터,일벡터,정방행렬,대치행렬,대각행렬,항등행렬|[ipynb](./codes/LinearAlgebra_연산.ipynb)|sklearn.iris|[geogebra](https://www.geogebra.org/classic/bweyhzbf)|[youtube](https://youtu.be/R-XHrNq9Ff4), [*other pdf](https://github.com/insightcampus/sesac-nlp/blob/main/13%20%EA%B0%95%EC%9D%98%20-%20%EC%84%A0%ED%98%95%EB%8C%80%EC%88%98%20%EA%B8%B0%EC%B4%88.pdf)|
 |행렬| 행렬 연산 |벡터-행렬 덧셈과 뺄셈, 스칼라-벡터/행렬 곱셈,브로드캐스팅|[ipynb](./codes/LinearAlgebra_데이터형태간연산.ipynb)|-|-| [*other pdf](https://github.com/insightcampus/sesac-nlp/blob/main/13%20%EA%B0%95%EC%9D%98%20-%20%EC%84%A0%ED%98%95%EB%8C%80%EC%88%98%20%EA%B8%B0%EC%B4%88.pdf) |
