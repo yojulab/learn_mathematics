@@ -14,7 +14,9 @@
 |통계|다변량정규분포|||-|-|[link](https://namyoungkim.github.io/probability/statistics/2017/09/11/probability_2/),[link](https://dhpark1212.tistory.com/entry/%EB%8B%A4%EB%B3%80%EB%9F%89-%EA%B0%80%EC%9A%B0%EC%8B%9C%EC%95%88-%EB%B6%84%ED%8F%ACMultivariate-Gaussian-Distribution)|
 
 #### 선형대수학
-refer : [선형대수-youtube](https://youtube.com/playlist?list=PL5yujGYFVt0BCu7DXfEgD7M51Tj6S7s4A)
++ refer 
+  + [선형대수-youtube](https://youtube.com/playlist?list=PL5yujGYFVt0BCu7DXfEgD7M51Tj6S7s4A)
+  + [데이터사이언스 스쿨-Doc](https://datascienceschool.net/intro.html)
 
 | 분류 | 주제 | 설명 |작성 | 데이터 | 이해 | 참조 |
 | :---: | :---: | --- | :---: | :---: | :---: | :---: |
