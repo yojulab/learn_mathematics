@@ -17,6 +17,7 @@
 + refer 
   + [선형대수-youtube](https://youtube.com/playlist?list=PL5yujGYFVt0BCu7DXfEgD7M51Tj6S7s4A)
   + [데이터사이언스 스쿨-Doc](https://datascienceschool.net/intro.html)
+  + [Hands-On Mathematics for Deep Learning-Book](https://www.packtpub.com/product/hands-on-mathematics-for-deep-learning/9781838647292)
 
 | 분류 | 주제 | 설명 |작성 | 데이터 | 이해 | 참조 |
 | :---: | :---: | --- | :---: | :---: | :---: | :---: |
