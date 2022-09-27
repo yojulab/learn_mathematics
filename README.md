@@ -1,3 +1,6 @@
+#### refer learn
+- [공돌이의 수학정리노트](https://angeloyeo.github.io/2020/09/07/basic_vector_operation.html)
+
 #### 기초 수학
 |분류|주제|설명|참조|
 |:--:|:--:|--|--|
