@@ -12,7 +12,7 @@
 | 분류 | 주제 | 설명 |작성 | 데이터 | 이해 | 참조 |
 | :---: | :---: | --- | :---: | :---: | :---: | :---: |
 |통계|통계 각종 수치||[link](https://m.blog.naver.com/cni1577/221720979015),|[link](https://docs.google.com/spreadsheets/d/10TfbZuxD1Xn4hhDS8zpCkFw7i9V-3jQ5Qxk_NJ8PSKs/edit#gid=0)|[geogebra](https://www.geogebra.org/classic/snrdcwmz)|[youtube](https://youtu.be/m1b6-WY6A2A), [link](http://www.kmooc.kr/asset-v1:SNUk+SNU212.204.1k+2016+type@asset+block/2.2_%ED%91%9C%EC%A4%80%ED%8E%B8%EC%B0%A8%EC%99%80_%EC%9E%90%EC%9C%A0%EB%8F%84.pdf)|
-|통계|정규분포||||[geogebra](https://www.geogebra.org/classic/xkmassdx)|[youtube 29:17](https://youtu.be/Xj5ylagamb8)|
+|통계|정규분포||||[geogebra](https://www.geogebra.org/classic/vw2hrs8h)|[youtube 29:17](https://youtu.be/Xj5ylagamb8)|
 |통계|공분산|||[link](https://docs.google.com/spreadsheets/d/10TfbZuxD1Xn4hhDS8zpCkFw7i9V-3jQ5Qxk_NJ8PSKs/edit#gid=239546892)|[?geogebra](https://www.geogebra.org/classic/d7rqhg7u)|[youtube](https://youtu.be/YEdscCNsinU)|
 |통계|다변량정규분포|||-|-|[link](https://namyoungkim.github.io/probability/statistics/2017/09/11/probability_2/),[link](https://dhpark1212.tistory.com/entry/%EB%8B%A4%EB%B3%80%EB%9F%89-%EA%B0%80%EC%9A%B0%EC%8B%9C%EC%95%88-%EB%B6%84%ED%8F%ACMultivariate-Gaussian-Distribution)|
 
